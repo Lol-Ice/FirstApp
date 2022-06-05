@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "ru.netology"
-version = "1.0-SNAPSHOT"
+version = "1.7.0-RC2"
 
 repositories {
     mavenCentral()
